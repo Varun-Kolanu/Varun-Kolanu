@@ -33,3 +33,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varun-kolanu&theme=gruvbox_light&show_icons=true&locale=en&layout=compact" alt="varun-kolanu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varun-kolanu&theme=gruvbox_light&show_icons=true&locale=en" alt="varun-kolanu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varun-kolanu&theme=gruvbox_light&" alt="varun-kolanu" /></p>
