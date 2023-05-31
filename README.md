@@ -16,12 +16,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Varun-Kolanu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Varun-Kolanu&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Kolanu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=VarunKolanu)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Varun-Kolanu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varun-kolanu&theme=gruvbox_light&" alt="varun-kolanu" /></p>
