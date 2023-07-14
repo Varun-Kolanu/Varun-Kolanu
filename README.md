@@ -4,7 +4,7 @@
 <h3 align="center">A Deve-love-per, transforming ideas into high-quality and functional Web Projects, on time and in budget</h3>
 <img align="right" alt="Coding" width="400" src="https://www.easternts.com/wp-content/uploads/2023/01/wordpress.gif">
 
-💻 I'm a CSE 1st year Undergrad pursuing Btech at IIT (BHU) Varanasi<br><br>🌱 I’m currently learning Flutter, Firebase<br><br>👨‍💻 All of my projects are available at https://varun-kolanu-portfolio.netlify.app/<br><br>💬 Ask me about MERN stack and related technologies<br><br>📫 Reach me at kolanuvarun739@gmail.com
+💻 I'm a CSE Sophomore pursuing Btech at IIT (BHU) Varanasi<br><br>🌱 I’m currently learning Flutter, Firebase<br><br>👨‍💻 All of my projects are available at https://varun-kolanu-portfolio.netlify.app/<br><br>💬 Ask me about MERN stack and related technologies<br><br>📫 Reach me at kolanuvarun739@gmail.com
 
 
 ## 🌐 Socials:
