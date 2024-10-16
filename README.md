@@ -1,10 +1,10 @@
 # 💫 About Me:
 [![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](https://varun-kolanu.io)
 <h1 align="center">Hi 👋, I'm Varun Kolanu</h1>
-<h3 align="center">A Deve-love-per, transforming ideas into high-quality and functional Web Projects, on time and in budget</h3>
+<h3 align="center">A Developer, transforming ideas into high-quality and functional Web Projects, on time and in budget</h3>
 <img align="right" alt="Coding" width="400" src="https://www.easternts.com/wp-content/uploads/2023/01/wordpress.gif">
 
-💻 I'm a CSE Sophomore pursuing Btech at IIT (BHU) Varanasi<br><br>🌱 I’m currently learning Web 3 and GO<br><br>👨‍💻 All of my projects are available at https://varun-kolanu-portfolio.netlify.app/<br><br>💬 Ask me about MERN stack and related technologies<br><br>📫 Reach me at kolanuvarun739@gmail.com
+💻 I'm a CSE Junior Undergrad pursuing Btech at IIT (BHU) Varanasi<br><br>🌱 I’m currently learning Rust and DevOps<br><br>👨‍💻 All of my projects are available at https://varun-kolanu-portfolio.netlify.app/<br><br>💬 Ask me about anything related to Full Stack in Go or MERN<br><br>📫 Reach me at kolanuvarun739@gmail.com
 
 
 ## 🌐 Socials:
