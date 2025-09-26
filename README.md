@@ -4,7 +4,7 @@
 <h3 align="center">A developer, geeking out on different technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://www.easternts.com/wp-content/uploads/2023/01/wordpress.gif">
 
-💻 I'm a CSE 4th year student, pursuing Btech at IIT (BHU) Varanasi<br><br>👨‍💻 My portfolio: https://varun-kolanu-portfolio.netlify.app/<br><br><br><br>📫 Reach me at kolanuvarun739 [at] gmail.com
+💻 I'm a CSE 4th year student, pursuing Btech at IIT (BHU) Varanasi<br><br>👨‍💻 My portfolio: https://varun-kolanu-portfolio.netlify.app/<br><br>📫 Reach me at kolanuvarun739 [at] gmail.com
 
 
 ## 🌐 Socials:
